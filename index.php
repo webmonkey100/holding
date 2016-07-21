@@ -42,7 +42,6 @@
 		@media (min-width: 992px) {#page_wrapper { width: 970px; }}
 		@media (min-width: 1200px) {#page_wrapper { width: 1170px; }	}
 		table.dataTable thead>tr>th.sorting_asc,table.dataTable thead>tr>th.sorting_desc {color: #000000;}
-		/* red, pink, purple, deep-purple, indigo, blue, light-blue, cyan, teal, green, light-green, lime, yellow, amber, orange, deep-orange, brown, grey, blue-grey, black, white */
  </style>
 
 </head>
@@ -219,30 +218,6 @@
                 <td>23</td>
                 <td>2008/12/13</td>
                 <td>$103,600</td>
-            </tr>
-            <tr>
-                <td>Jena Gaines</td>
-                <td>Office Manager</td>
-                <td>London</td>
-                <td>30</td>
-                <td>2008/12/19</td>
-                <td>$90,560</td>
-            </tr>
-            <tr>
-                <td>Quinn Flynn</td>
-                <td>Support Lead</td>
-                <td>Edinburgh</td>
-                <td>22</td>
-                <td>2013/03/03</td>
-                <td>$342,000</td>
-            </tr>
-            <tr>
-                <td>Charde Marshall</td>
-                <td>Regional Director</td>
-                <td>San Francisco</td>
-                <td>36</td>
-                <td>2008/10/16</td>
-                <td>$470,600</td>
             </tr>
         </tbody>
 	</table>
